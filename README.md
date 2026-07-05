@@ -20,7 +20,7 @@
 ## 🚀 Live Demo & Deployment
 
 This application is deployed and hosted on **GitHub Pages**:
-🔗 **[CertifiedGen Live Website](https://tanaydeshmukh7.github.io/certifiedgen/)** *(Update with your repository link)*
+🔗 **[CertifiedGen Live Website](https://tanaydeshmukh7.github.io/certifiedgen/)**
 
 ---
 
