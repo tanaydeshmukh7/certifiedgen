@@ -1,0 +1,8 @@
+node_modules/
+uploads/
+certificates/
+.env
+.env.local
+.env.*
+*.zip
+.DS_Store
